@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 type EmbeddingRequest[Input string | []string] struct {

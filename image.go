@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 type imageStyle string

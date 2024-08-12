@@ -1,6 +1,6 @@
 # OpenAI Go
 
-[![GoReport](https://img.shields.io/badge/%F0%9F%93%9D%20goreport-A%2B-75C46B?style=flat-square)](https://goreportcard.com/report/github.com/Simplou/openai)
+[![GoReport](https://img.shields.io/badge/%F0%9F%93%9D%20goreport-A%2B-75C46B?style=flat-square)](https://goreportcard.com/report/github.com/Plataforma-Simplou/openai)
 
 This package provides an interface for interacting with services offered by OpenAI, such as Text-to-Speech (TTS), Transcription, and Chat (Completion, Function Calling) using advanced language models.
 
@@ -9,7 +9,7 @@ This package provides an interface for interacting with services offered by Open
 To install the OpenAI package, use the go get command:
 
 ```bash
-go get github.com/Simplou/openai
+go get github.com/Plataforma-Simplou/openai
 ```
 
 ## Usage
@@ -25,8 +25,8 @@ import (
 	"os"
 	"context"
 
-	"github.com/Simplou/goxios"
-	"github.com/Simplou/openai"
+	"github.com/Plataforma-Simplou/goxios"
+	"github.com/Plataforma-Simplou/openai"
 )
 
 const fileName = "hello.mp3"
@@ -69,8 +69,8 @@ import (
 	"os"
 	"context"
 
-	"github.com/Simplou/goxios"
-    "github.com/Simplou/openai"
+	"github.com/Plataforma-Simplou/goxios"
+    "github.com/Plataforma-Simplou/openai"
 )
 
 const fileName = "hello.mp3"
@@ -105,8 +105,8 @@ import (
 	"os"
 	"context"
 
-	"github.com/Simplou/goxios"
-	"github.com/Simplou/openai"
+	"github.com/Plataforma-Simplou/goxios"
+	"github.com/Plataforma-Simplou/openai"
 )
 
 var (
@@ -142,8 +142,8 @@ import (
 	"os"
 	"context"
 
-	"github.com/Simplou/goxios"
-	"github.com/Simplou/openai"
+	"github.com/Plataforma-Simplou/goxios"
+	"github.com/Plataforma-Simplou/openai"
 )
 
 var (

@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/Simplou/goxios"
-	"github.com/Simplou/openai"
+	"github.com/Plataforma-Simplou/goxios"
+	"github.com/Plataforma-Simplou/openai"
 )
 
 func ImageGenerated(filePath string) bool {

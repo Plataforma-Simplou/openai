@@ -6,8 +6,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/Simplou/goxios"
-	"github.com/Simplou/openai"
+	"github.com/Plataforma-Simplou/goxios"
+	"github.com/Plataforma-Simplou/openai"
 )
 
 func chat() {
