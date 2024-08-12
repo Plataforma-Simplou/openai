@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 var (

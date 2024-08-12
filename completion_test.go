@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 type MockClient struct {

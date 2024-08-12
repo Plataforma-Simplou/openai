@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 // MockHTTPClient is a mock implementation of HTTPClient for testing purposes.

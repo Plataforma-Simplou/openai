@@ -4,8 +4,8 @@ import (
 	"context"
 	"os"
 
-	"github.com/Simplou/goxios"
-	"github.com/Simplou/openai"
+	"github.com/Plataforma-Simplou/goxios"
+	"github.com/Plataforma-Simplou/openai"
 )
 
 var (

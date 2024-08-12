@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Simplou/openai"
+	"github.com/Plataforma-Simplou/openai"
 )
 
 const fileName = "hello.mp3"

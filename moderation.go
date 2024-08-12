@@ -3,7 +3,7 @@ package openai
 import (
 	"encoding/json"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 type (

@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 type Client struct {
